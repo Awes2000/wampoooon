@@ -50,6 +50,15 @@ body {
     text-decoration: underline;
 }
 
+.flag-icon {
+    width: 70px;
+    height: 35px;
+}
+
+.flag-icon:hover {
+    opacity: 0.8;
+}
+
 /* Hero Section */
 .hero {
     position: relative;
